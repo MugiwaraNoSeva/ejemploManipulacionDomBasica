@@ -1,0 +1,2 @@
+# ejemploManipulacionDomBasica
+ejercicio practico JS
